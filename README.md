@@ -1,5 +1,7 @@
 # Projet Tick : Système de sécurité et de suivi IoT pour véhicules personnels
 
+![Logo Tick](./Flutter_App/source_code/assets/icon/icon.png)
+
 Bienvenue sur le dépôt GitHub du projet "Tick", réalisé dans le cadre du cours de Projet d'Ingénierie Informatique (E56) à la Faculté Polytechnique de Mons (UMONS) durant l'année académique 2024-2025.
 
 **Membres du groupe :**
