@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735945920193",
+    "project_id": "tick-b309c",
+    "storage_bucket": "tick-b309c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735945920193:android:ecbbf64c326b86bb174e40",
+        "android_client_info": {
+          "package_name": "com.example.tick_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_GOOGLE_MAPS_API_KEY_HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
