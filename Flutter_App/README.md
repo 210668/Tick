@@ -1,5 +1,7 @@
 # Application Mobile Tick (Flutter)
 
+![Logo Tick](./Flutter_App/source_code/assets/icon/icon.png)
+
 Ce dossier contient un APK précompilé pour Android et le code source de l'application mobile "Tick" .
 
 ## Installation via l'APK (Android)
